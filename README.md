@@ -3,7 +3,7 @@ ESLint 是一个插件化的 javascript 代码检测工具，它可以用于检�
 # 使用说明
 只是为了简单的使用eslint静态监测代码，从安装到使用请查看
 [http://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html](http://morning.work/page/maintainable-nodejs/getting-started-with-eslint.html)
-# vue + webpack + node + eslint 结合
+# vue + webpack + node + eslint 
 将项目clone到本地
 <p>git clone git@github.com:JacksonTxl/ESLint.git</p>
 <p>cd ESLint</p>
